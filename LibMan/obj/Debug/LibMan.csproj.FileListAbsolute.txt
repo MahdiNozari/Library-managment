@@ -1,0 +1,8 @@
+C:\Users\98990\source\repos\LibMan\LibMan\obj\Debug\LibMan.csproj.AssemblyReference.cache
+C:\Users\98990\source\repos\LibMan\LibMan\obj\Debug\LibMan.csproj.SuggestedBindingRedirects.cache
+C:\Users\98990\source\repos\LibMan\LibMan\obj\Debug\LibMan.csproj.CoreCompileInputs.cache
+C:\Users\98990\source\repos\LibMan\LibMan\bin\Debug\LibMan.exe.config
+C:\Users\98990\source\repos\LibMan\LibMan\bin\Debug\LibMan.exe
+C:\Users\98990\source\repos\LibMan\LibMan\bin\Debug\LibMan.pdb
+C:\Users\98990\source\repos\LibMan\LibMan\obj\Debug\LibMan.exe
+C:\Users\98990\source\repos\LibMan\LibMan\obj\Debug\LibMan.pdb
